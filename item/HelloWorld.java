@@ -4,7 +4,7 @@ public class HelloWorld {
         System.out.println("I will be your virtual assistant!");
         System.out.println("Please, be my guest");
 		System.out.println("Please, test");
-        //System.out.println("this won't be printed!")
+        System.out.println("this won't be printed!")
         //this is a comment
         System.exit(0); //another comment
     }
