@@ -1,2 +1,4 @@
 New file
 Adding new line 
+
+line 3
