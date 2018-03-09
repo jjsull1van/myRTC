@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Please, test");
         System.out.println("this won't be printed!")
         //this is a comment
+		//adding to java module
         System.exit(0); //another comment
     }
 }
