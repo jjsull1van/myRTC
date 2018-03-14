@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Please, test");
         System.out.println("this won't be printed!")
 		System.out.println('Hello');
+		Systen.out.println("Git Demo");
         //this is a comment
 		//new commen
 		//adding to java module
