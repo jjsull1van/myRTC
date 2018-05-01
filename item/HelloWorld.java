@@ -8,7 +8,7 @@ public class HelloWorld {
 		System.out.println('Hello');
 		Systen.out.println("Git Demo");
         //this is a comment
-		//new commen
+		//new comment
 		//adding to java module
         System.exit(0); //another comment
     }
